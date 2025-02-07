@@ -1,7 +1,6 @@
 # Steamer
-[🇬🇧eng]
-Just program to have some fun. Enjoy your games.
-
+[🇬🇧eng]Just program to have some fun. Enjoy your games.
+[🇷🇺ru] Простенькая программка для веселья. Наслаждайся своими играми.
 # Program advantages:
 
 -2700+ games
@@ -19,5 +18,7 @@ Just program to have some fun. Enjoy your games.
 -not much sized program, just 2,9GB
 
 -installer 
+
+-if you cant buy game from your country you just can add from this prog
 
 ![image](https://github.com/user-attachments/assets/a5f0b04d-e83a-4b41-8ab8-f00d5d61800c)
