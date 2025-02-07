@@ -24,7 +24,10 @@
 
 -if you cant buy game from your country you just can add from this prog
 
-[🇷🇺ru]
+
+
+
+# [🇷🇺ru]
 
 -2700+ игр
 
