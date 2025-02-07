@@ -2,7 +2,7 @@
 [🇬🇧eng]
 Just program to have some fun. Enjoy your games.
 
-#program advantages:
+# Program advantages:
 
 -2700+ games
 
