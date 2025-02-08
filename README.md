@@ -1,10 +1,10 @@
 # Steamer
-[🇬🇧eng]Just program to have some fun. Enjoy your games.
+[eng]Just program to have some fun. Enjoy your games.
 
-[🇷🇺ru] Простенькая программка для веселья. Наслаждайся своими играми.
+[ru] Простенькая программка для веселья. Наслаждайся своими играми.
 # Program advantages/Преимущества:
 
-# [🇬🇧eng]
+# [eng]
 
 -2700+ games
 
@@ -27,7 +27,7 @@
 
 
 
-# [🇷🇺ru]
+# [ru]
 
 -2700+ игр
 
