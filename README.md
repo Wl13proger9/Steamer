@@ -8,11 +8,7 @@ Just program to have some fun. Enjoy your games.
 
 -2700+ games
 
--achievements management 
-
 -one click and done
-
--cloud game saving
 
 -work on steam, its not just torrent
 
@@ -31,11 +27,7 @@ Just program to have some fun. Enjoy your games.
 
 -2700+ игр
 
--управление ачивкамм
-
 -один клик и все кайф
-
--облочные сейфы
 
 -оно работает в Стиме, это не просто торрент 
 
