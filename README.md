@@ -40,6 +40,13 @@ Just program to have some fun. Enjoy your games.
 -если ты не можешь купить игру с твоей страны, ты просто можешь добавить ее с программы 
 
 
+#Screenshots/Скрины
+![Steamer 1 8 5 Alpha 12_04_25 18_49_12](https://github.com/user-attachments/assets/9fe4b5f3-359f-4014-a5f4-3422ef622e34)
+
+![Steamer 1 8 5 Alpha 12_04_25 18_47_46](https://github.com/user-attachments/assets/5323a292-9283-4d65-8548-5ac4016e3934)
+
+
+#Old verison/Старая версия
 
 ![Steamer(v1 6) 10_02_25 7_05_49](https://github.com/user-attachments/assets/796eb52f-2b02-40cc-8a7c-8009d4ac75e2)
 
