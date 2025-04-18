@@ -5,6 +5,7 @@ Just program to have some fun. Enjoy your games.
 **Download/Установка**
 
 [v1.0 lite](https://github.com/Wl13proger9/Steamer/releases/download/v1.0l/lite.zip)
+
 [v1.8.5 alpha](https://github.com/Wl13proger9/Steamer/releases/download/v1.8.5/v1.8.5.alpha.zip)
 
 
