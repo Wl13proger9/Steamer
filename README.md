@@ -3,7 +3,7 @@ Just program to have some fun. Enjoy your games.
 
 Простенькая программка для веселья. Наслаждайся своими играми.
 
-**Download/Установка**
+**Download/Установка** 
 
 [v1.0 lite](https://github.com/Wl13proger9/Steamer/releases/download/v1.0l/lite.zip)
 
@@ -29,7 +29,7 @@ Just program to have some fun. Enjoy your games.
 
 
 
-# На Русском
+# На Русском 
 
 -2700+ игр
 
