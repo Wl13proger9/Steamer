@@ -1,7 +1,8 @@
 # [Steamer]
 Just program to have some fun. Enjoy your games.
 Простенькая программка для веселья. Наслаждайся своими играми.
-# Download/Установка
+
+**Download/Установка**
 v1.0 lite
 v1.8.5 alpha
 
