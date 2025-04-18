@@ -1,0 +1,3 @@
+hi = Made by: WL13Proger9
+steam-path = D:\steam
+c = 0
