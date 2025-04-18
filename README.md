@@ -1,7 +1,10 @@
-# Steamer
+# [Steamer]
 Just program to have some fun. Enjoy your games.
-
 Простенькая программка для веселья. Наслаждайся своими играми.
+# Download/Установка
+v1.0 lite
+v1.8.5 alpha
+
 # Program advantages/Преимущества:
 
 # In English
@@ -15,10 +18,8 @@ Just program to have some fun. Enjoy your games.
 -open source code
 
 -not much sized program, just 2,9GB
-
--own installer 
-
--if you cant buy game from your country you just can add from this prog
+ 
+-if you cant buy game from your country you just can add from this tool
 
 
 
@@ -34,8 +35,6 @@ Just program to have some fun. Enjoy your games.
 -открытый исходный код
 
 -не большой размер программы, всего лишь 2.9ГБ
-
--свой собственный установщик 
 
 -если ты не можешь купить игру с твоей страны, ты просто можешь добавить ее с программы 
 
