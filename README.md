@@ -41,9 +41,9 @@ Just program to have some fun. Enjoy your games.
 
 
 # Screenshots/Скрины
-![Steamer 1 8 5 Alpha 12_04_25 18_49_12](https://github.com/user-attachments/assets/9fe4b5f3-359f-4014-a5f4-3422ef622e34)
+![Steamer 1 8 6 Alpha 02_05_25 11_48_52](https://github.com/user-attachments/assets/2bd555c3-3569-4752-a8cb-a58d33b21da9)
 
-![Steamer 1 8 5 Alpha 12_04_25 18_47_46](https://github.com/user-attachments/assets/5323a292-9283-4d65-8548-5ac4016e3934)
+![Steamer 1 8 6 Alpha 02_05_25 11_49_21](https://github.com/user-attachments/assets/1fe5ce7b-9327-44a5-872b-db8b5c907c8a)
 
 
 # Old verison/Старая версия
