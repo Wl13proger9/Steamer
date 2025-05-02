@@ -1,0 +1,13 @@
+[Settings]
+st_path = D:\steam
+db      = DataBase/games.zip
+
+[window]
+win_width  = 1200
+win_height = 700
+win_start  = games
+
+[show]
+show_b_r    = True
+show_b_prof = True
+show_b_ver  = True
