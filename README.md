@@ -21,10 +21,6 @@ Just program to have some fun. Enjoy your games.
 
 -open source code
 
--not much sized program, just 2,9GB
-
--own installer 
-
 -if you cant buy game from your country you just can add from this prog
 
 
@@ -39,10 +35,6 @@ Just program to have some fun. Enjoy your games.
 -оно работает в Стиме, это не просто торрент 
 
 -открытый исходный код
-
--не большой размер программы, всего лишь 2.9ГБ
-
--свой собственный установщик 
 
 -если ты не можешь купить игру с твоей страны, ты просто можешь добавить ее с программы 
 
