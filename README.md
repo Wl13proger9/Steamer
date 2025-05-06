@@ -2,6 +2,13 @@
 Just program to have some fun. Enjoy your games.
 
 Простенькая программка для веселья. Наслаждайся своими играми.
+
+**Download/Установка** 
+
+[v1.0 lite](https://github.com/Wl13proger9/Steamer/releases/download/v1.0l/lite.zip)
+
+[v1.8.6 alpha](https://github.com/Wl13proger9/Steamer/releases/download/v1.8.6/steamer.zip)
+
 # Program advantages/Преимущества:
 
 # In English
