@@ -19,18 +19,19 @@
 
 
 # [Как установить? — How to download?]
->Шаг 1 - Скачать exe или rar
+>Шаг 1 - [Скачать exe или rar](https://github.com/Wl13proger9/Steamer/releases/tag/v2.156)
 >
 >Шаг 2 - Отправить файл в нужную вам папку
 >
 >Шаг 3 - Запустить 
 
 ---------------------------------------------------------
->Step 1 - Download exe or rar
+>Step 1 - [Download exe or rar](https://github.com/Wl13proger9/Steamer/releases/tag/v2.156)
 >
 >Step 2 - Send the file to the folder you need
 >
 >Step 3 - Run
+
 
 
 
@@ -60,4 +61,8 @@
 # [Скриншоты — Screenshots]
 просто тыкни на них — just press it
 <img width="3933" height="2246" alt="screen" src="https://github.com/user-attachments/assets/8435b946-3ecc-48ed-bbfb-4f77274fb630" />
-на момент снятия скринов (05/08/25) добавленно 2765 игр — at the time of taking screenshots (05/08/25) 2765 games were added
+>На момент снятия скринов (05/08/25) добавленно 2765 игр
+>
+>At the time of taking screenshots (05/08/25) 2765 games were added
+>
+![ezgif-7e2538aba7271b](https://github.com/user-attachments/assets/25c892f2-e0ad-44c6-aba4-343392f53588)
