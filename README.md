@@ -19,18 +19,18 @@
 
 
 # [Как установить? — How to download?]
->Шаг 1 - [Скачать exe или rar](https://github.com/Wl13proger9/Steamer/releases/tag/v2.156)
->
->Шаг 2 - Отправить файл в нужную вам папку
->
->Шаг 3 - Запустить 
+Шаг 1 - [Скачать exe или rar](https://github.com/Wl13proger9/Steamer/releases/tag/v2.156)
+
+Шаг 2 - Отправить файл в нужную вам папку
+
+Шаг 3 - Запустить 
 
 ---------------------------------------------------------
->Step 1 - [Download exe or rar](https://github.com/Wl13proger9/Steamer/releases/tag/v2.156)
->
->Step 2 - Send the file to the folder you need
->
->Step 3 - Run
+Step 1 - [Download exe or rar](https://github.com/Wl13proger9/Steamer/releases/tag/v2.156)
+
+Step 2 - Send the file to the folder you need
+
+Step 3 - Run
 
 
 
@@ -39,19 +39,19 @@
 
 
 # [Как использовать? — How to use?]
->Шаг 1 - Взять ссылку или ID на игру
->
->Шаг 2 - Вставить ссылку или ID в steamer (ctrl + v)
->
->Шаг 3 - Подождать пока игра добавиться в вашу библиотеку (обычно ~15 - 25 сек)
+Шаг 1 - Взять ссылку или ID на игру
+
+Шаг 2 - Вставить ссылку или ID в steamer (ctrl + v)
+
+Шаг 3 - Подождать пока игра добавиться в вашу библиотеку (обычно ~15 - 25 сек)
 
 ---------------------------------------------------------
 
->Step 1 - Get a link or ID to the game
->
->Step 2 - Paste the link or ID into steamer (ctrl + v)
->
->Step 3 - Wait for the game to be added to your library (usually ~15 - 25 sec)
+Step 1 - Get a link or ID to the game
+
+Step 2 - Paste the link or ID into steamer (ctrl + v)
+
+Step 3 - Wait for the game to be added to your library (usually ~15 - 25 sec)
 
 
 
