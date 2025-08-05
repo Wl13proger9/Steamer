@@ -1,6 +1,0 @@
-github: https://github.com/Wl13proger9/Steamer
-discord: https://discord.gg/fPyShHdqzG
-version: 1.8.6 alpha
-mega: https://mega.nz/file/EchSlZLL#BbT7-qtm26ZnaTpzpj0AjgNemHh6av68MyAN7IuTfOE
-google: https://drive.google.com/file/d/1-lZ0OJGEFUd9kEHfWaJEjk1zYU894J1L/view?usp=drive_link
-свага: присутствует
