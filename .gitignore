@@ -4,3 +4,8 @@ __pycache__/
 
 # DEV
 dev/
+
+# CORE
+core/__pycache__
+core/downloads
+core/temp
